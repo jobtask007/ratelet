@@ -27,6 +27,8 @@ make ut
 ```
 
 ## Run in development mode
+> Set AppID before run \
+> export OPEN_EXCHANGE_RATES_APP_ID=ca589a9519fa4596aef3e4ea0b84c2c0
 ```
 make run
 ```
